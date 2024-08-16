@@ -33,12 +33,12 @@ Ensure you have the following installed:
 
    ```bash
       git clone https://github.com/paritosh31mishra/Open_Weather.git
-2.  ```
-       cd backend
-    ```
-       npm install
-3.   mongoose
-    ```
+2. ```
+         cd backend
+   ```
+         npm install
+3.     mongoose
+   ```
        npm install mongodb
 
 
