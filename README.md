@@ -32,19 +32,26 @@ Ensure you have the following installed:
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/paritosh31mishra/Open_Weather.git]
-2.  cd backend
-  npm install
-3.   cd reactapp
- npm install
-4.  mongoose
-npm install mongoose
+      git clone https://github.com/paritosh31mishra/Open_Weather.git
+2.  ```
+       cd backend
+    ```
+       npm install
+3.   mongoose
+    ```
+       npm install mongodb
 
 
 ## Running the command
 1. backend
-nodemon myserver.js
+   ```
+   cd backend
+   ```
+   nodemon myserver.js
 2. reactapp
+   ```
+   cd reactapp
+   ```
    npm start
 
 ## Access the Application:
