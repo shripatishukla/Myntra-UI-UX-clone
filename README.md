@@ -39,6 +39,8 @@ Ensure you have the following installed:
          npm install
    ```
        npm install mongodb
+   
+3.    install mongo db compass(community version) and create database Open_weather
 
 
 ## Running the command
