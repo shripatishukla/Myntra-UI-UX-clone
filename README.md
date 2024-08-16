@@ -37,7 +37,6 @@ Ensure you have the following installed:
          cd backend
    ```
          npm install
-3.     mongoose
    ```
        npm install mongodb
 
@@ -45,14 +44,14 @@ Ensure you have the following installed:
 ## Running the command
 1. backend
    ```
-   cd backend
+       cd backend
    ```
-   nodemon myserver.js
+       nodemon myserver.js
 2. reactapp
    ```
-   cd reactapp
+       cd reactapp
    ```
-   npm start
+       npm start
 
 ## Access the Application:
 
