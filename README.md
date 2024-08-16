@@ -50,7 +50,7 @@ nodemon myserver.js
 ## Access the Application:
 
 Frontend: http://localhost:3000
-Backend API: http://localhost:5556/api
+Backend API: http://localhost:5557/weatherapi
 Database:  open mongoose portal and see the data
 
    
